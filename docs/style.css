@@ -1,3 +1,15 @@
 .header_unit {
 	text-align: center;
+	color: black;
+	background-color: gainsboro;
+}
+
+.header_link {
+	color: inherit;
+	background-color: inherit;
+}
+
+#current_page {
+	color: white;
+	background-color: dimgrey;
 }
