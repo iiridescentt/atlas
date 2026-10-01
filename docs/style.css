@@ -4,6 +4,10 @@
 	background-color: gainsboro;
 }
 
+a {
+	color: inherit;
+}
+
 .header_link {
 	text-align: center;
 	text-decoration: inherit;
