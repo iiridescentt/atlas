@@ -1,10 +1,12 @@
 .header_unit {
-	text-align: center;
+	text-decoration: none;
 	color: black;
 	background-color: gainsboro;
 }
 
 .header_link {
+	text-align: center;
+	text-decoration: inherit;
 	color: inherit;
 	background-color: inherit;
 }
