@@ -1,4 +1,7 @@
 .header_unit {
+	display: inline;
+	padding: 8px 10px;
+	
 	text-decoration: none;
 	color: black;
 	background-color: gainsboro;
